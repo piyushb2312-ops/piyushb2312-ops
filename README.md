@@ -1,4 +1,18 @@
-## Hi there 👋
+Hi, I'm Piyush 👋  
+Aspiring Data Analyst passionate about data visualization, analytics, and solving business problems using data.
+
+Skills
+* SQL
+* Python
+* Power BI
+* Excel
+* Pandas
+* NumPy
+* Matplotlib
+
+Contact
+LinkedIn :- www.linkedin.com/in/piyushbhiseofficial
+Email :- piyushb2312@gmail.com
 
 <!--
 **piyushb2312-ops/piyushb2312-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
