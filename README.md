@@ -1,30 +1,62 @@
-Hi, I'm Piyush 👋  
-Aspiring Data Analyst passionate about data visualization, analytics, and solving business problems using data.
+Hi, I'm Piyush Bhise 👋
 
-Skills
-* SQL
-* Python
-* Power BI
-* Excel
-* Pandas
-* NumPy
-* Matplotlib
+Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
-Contact
-LinkedIn :- www.linkedin.com/in/piyushbhiseofficial
-Email :- piyushb2312@gmail.com
+I specialize in transforming raw data into meaningful business insights through interactive dashboards, data visualization, and analytics solutions.
 
-<!--
-**piyushb2312-ops/piyushb2312-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently focused on building real-world projects using Power BI, SQL, Python, and Excel to solve business problems and support data-driven decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Do
+
+- 📊 Create interactive Power BI dashboards
+- 📈 Analyze business data and generate insights
+- 🧹 Clean and transform raw datasets
+- 📉 Track KPIs and business performance metrics
+- 📌 Build analytics projects for real-world business scenarios
+
+---
+
+🛠️ Skills & Tools
+
+Data Analytics
+
+- SQL
+- Python
+- Excel
+- Power BI
+
+Python Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+
+Business Intelligence
+
+- Data Visualization
+- KPI Reporting
+- Dashboard Design
+- Data Cleaning
+- Business Insights
+
+---
+
+🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/piyushbhiseofficial
+- Email: piyushb2312@gmail.com
+
+---
+
+🎯 Career Focus
+
+Seeking opportunities in:
+
+- Data Analytics
+- Business Intelligence
+- Power BI Development
+- Data Visualization
+
+I aim to build analytical solutions that help businesses make smarter and faster decisions using data.
