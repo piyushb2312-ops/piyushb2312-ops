@@ -6,7 +6,6 @@ I specialize in transforming raw data into meaningful business insights through 
 
 Currently focused on building real-world projects using Power BI, SQL, Python, and Excel to solve business problems and support data-driven decision-making.
 
----
 
 🚀 What I Do
 
@@ -16,7 +15,6 @@ Currently focused on building real-world projects using Power BI, SQL, Python, a
 - 📉 Track KPIs and business performance metrics
 - 📌 Build analytics projects for real-world business scenarios
 
----
 
 🛠️ Skills & Tools
 
@@ -41,22 +39,8 @@ Business Intelligence
 - Data Cleaning
 - Business Insights
 
----
 
 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/piyushbhiseofficial
 - Email: piyushb2312@gmail.com
-
----
-
-🎯 Career Focus
-
-Seeking opportunities in:
-
-- Data Analytics
-- Business Intelligence
-- Power BI Development
-- Data Visualization
-
-I aim to build analytical solutions that help businesses make smarter and faster decisions using data.
