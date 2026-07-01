@@ -40,7 +40,7 @@ Business Intelligence
 - Business Insights
 
 
-🌐 Connect With Me
+🌐 Connect With Me.
 
 - LinkedIn: www.linkedin.com/in/piyushbhiseofficial
 - Email: piyushb2312@gmail.com
